@@ -28,12 +28,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhir-devkate&show_icons=true&theme=radical)  
+![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantomdelux-design&show_icons=true&theme=radical)  
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sudhir-devakate-b2a7b5358/))  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sudhirdevkate7@gmail.com)  
 
 ---
