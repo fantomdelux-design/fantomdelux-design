@@ -33,7 +33,7 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sudhir-devakate-b2a7b5358/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sudhir-devakate-b2a7b5358/))  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sudhirdevkate7@gmail.com)  
 
 ---
